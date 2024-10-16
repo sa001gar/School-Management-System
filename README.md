@@ -1,6 +1,6 @@
-﻿# TN-SCHOOL Management System 🙂
+﻿# School Management System 🙂
 
-The **SCHOOL Management System** is a comprehensive web application designed to manage the various aspects of a school, including student enrollment, staff management, attendance tracking, and academic performance monitoring. The system simplifies and automates the administrative tasks of educational institutions.
+The **School Management System** is a comprehensive web application designed to manage the various aspects of a school, including student enrollment, staff management, attendance tracking, and academic performance monitoring. The system simplifies and automates the administrative tasks of educational institutions.
 
 ## Features
 
